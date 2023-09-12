@@ -60,3 +60,7 @@ v14 MongoDB + Slash Commands
 <br>
 
 ![image](https://media.discordapp.net/attachments/1151097299808833566/1151097333103218699/devilyxrdNameChange.png)
+
+<br>
+
+![image](https://media.discordapp.net/attachments/1151097299808833566/1151097332532789269/devilyxrdFloridRegister.png)
