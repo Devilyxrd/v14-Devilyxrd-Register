@@ -1,7 +1,8 @@
 # v14-Devilyxrd-Register
 
 Bot 25 Star'da paylaşılacaktır aşağıdaki fotoğraflardan botu inceleyebilirsiniz.<br>
-v14 MongoDB + Slash Commands
+v14 MongoDB + Slash Commands<br>
+Yakında v14 MongoDB'li Register + Moderation Botu Gelecek
 
 ![image](https://media.discordapp.net/attachments/1151097299808833566/1151097332302106815/devilyxrdCokluGirisCikisGuard.png)
 
